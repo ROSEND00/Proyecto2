@@ -52,7 +52,13 @@ function App() {
      height="170"></img></td>
      </tr>
 
-     
+     <tr>
+  <td><img src='descarga.jpg' width="200"
+     height="170"></img></td>
+     </tr>
+
+
+
  </tbody>
  </table>
 </center>
